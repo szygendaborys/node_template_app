@@ -1,2 +1,3 @@
-# node_template_app
- A newest template for node app
+# Pity_Paski
+
+Aplikacja tworzona dla firmy JMP
